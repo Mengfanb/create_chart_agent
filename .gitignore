@@ -27,3 +27,7 @@ dist-ssr
 *.sw?
 .vite
 .npm-cache
+
+# Python
+__pycache__/
+*.pyc
